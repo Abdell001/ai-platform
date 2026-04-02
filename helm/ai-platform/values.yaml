@@ -2,7 +2,7 @@ replicaCount: 2
 
 image:
   repository: abdell001/ai-api
-  tag: 40e968fcd0e75d8df35f76d675e1303f63710ca3
+  tag: 815438ef14dbcc9bdb2b09cb6d865e54e9570d5f
   pullPolicy: Always
 
 service:
